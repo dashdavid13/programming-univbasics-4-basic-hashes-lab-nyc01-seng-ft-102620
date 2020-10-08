@@ -1,12 +1,13 @@
 def new_hash
  {}
 end
-person = {
-  
+
+def my_hash
+ person = {
+  :name  => "David",
+  :age => 25
   
 }
-def my_hash
-  # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
