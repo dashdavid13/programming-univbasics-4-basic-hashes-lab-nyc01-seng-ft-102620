@@ -2,7 +2,7 @@ def new_hash
  {}
 end
 person = {
-  :name => "David",
+  
   
 }
 def my_hash
